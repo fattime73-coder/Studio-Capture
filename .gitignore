@@ -16,3 +16,13 @@ xcuserdata/
 *.key
 *.p12
 __pycache__/
+
+# Local Xcode state and private credentials
+*.xcscmblueprint
+*.xccheckout
+*.pfx
+*.mobileprovision
+client_secret*.json
+credentials*.json
+secrets.json
+.netrc
